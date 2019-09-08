@@ -1,5 +1,5 @@
 svg *{
-    fill:#4df7ca
+    fill:#f9f43e;
 }
 .vw{
     max-width:2200px;
@@ -429,4 +429,7 @@ body::-webkit-scrollbar{
 }
 .app{
     height:100%
+}
+li{
+    list-style: none;
 }

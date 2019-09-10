@@ -59,8 +59,10 @@ input:focus{
 	color: white;
 	font-size: 1em;
 	padding-left: 0.5em;
+	outline-color: #f9f43e;
 }
 .button{
+	font-family:'IBM Plex Mono',monospace;
 	border-style: solid;
 	border-width: 1px;
 	border-top: none;
@@ -68,7 +70,9 @@ input:focus{
 	border-right: none;
 	border-bottom-color: #f9f43e;
 	background-color: #333333;
-	padding: 0.5em
+
+	padding: 0.7em;
+
 
 
 }

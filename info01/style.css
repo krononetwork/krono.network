@@ -1,0 +1,58 @@
+html{
+	font-size:25px;
+    line-height:2rem;
+    display: block;
+}
+body{
+	font-family:'IBM Plex Mono',monospace;
+	background-color: #101010;
+	color: white;
+	display: block;
+	margin-top: 7em;
+	margin-bottom: 7em;
+	margin-left: 3em;
+	margin-right: 3em;
+}
+.subhero{
+	color: #f9f43e;
+}
+.herotext{
+	color:#f9f43e;
+	font-size: 1.3rem;
+	line-height:2rem;
+}
+.desc2{
+	margin-top: 1rem;
+	font-size: 1.2rem;
+	line-height: 1.7rem;
+	margin-bottom: 3em;
+}
+.desc21{
+	margin-top: 1rem;
+	font-size: 1.2rem;
+	line-height: 1.7rem;
+
+}
+.desc22{
+	font-size: 1.2rem;
+	line-height: 1.7rem;
+	margin-bottom: 3em;
+}
+.desc3{
+	margin-top: 1rem;
+	font-size: 1.2rem;
+	line-height: 1.7rem;
+	margin-bottom: 1.5em;
+}
+.desc31{
+	margin-top: 1rem;
+	font-size: 1.2rem;
+	line-height: 1.7rem;
+	margin-bottom: 3em;
+}
+.desc31>p{
+	margin-top: 1rem;
+	font-size: 1.2rem;
+	line-height: 2rem;
+	margin-bottom: -0.5em;
+}

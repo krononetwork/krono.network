@@ -10,26 +10,63 @@ body{
 	background-color: #101010;
 	color: white;
 	display: block;
-	margin-top: 10em;
-	margin-left: 5rem;
-	margin-right: 5rem;
+	margin-top: 7em;
+	margin-left: 3em;
+	margin-right: 3em;
 }
 .subhero{
 	color: #f9f43e;
 }
 .herotext{
 	color:#f9f43e;
-	font-size: 1.6rem;
-	line-height:3.5rem;
-
+	font-size: 1.3rem;
+	line-height:2rem;
 }
 .desc1{
 	margin-top: 5rem;
-    width: 80%;
-    font-weight: 300;
+	font-size: 1.2rem;
+	line-height: 1.7rem;
 }
 .desc2{
 	margin-top: 1rem;
-    width: 80%;
-    font-weight: 300;
+	font-size: 1.2rem;
+	line-height: 1.7rem;
+}
+.required_email{
+	margin-bottom: 1rem;
+	margin-top: 3rem;
+	background-color: #333333;
+	border-style: none;
+	height: 3rem;
+	width: 50%;
+}
+input{
+	font-family:'IBM Plex Mono',monospace;
+	color: white;
+	font-size: 1em;
+	padding-left: 0.5em;
+}
+input:placeholder {
+	font-family:'IBM Plex Mono',monospace;
+	color: gray;
+	font-size: 1em;
+	padding-left: 0.5em;
+}
+input:focus{
+	font-family:'IBM Plex Mono',monospace;
+	color: white;
+	font-size: 1em;
+	padding-left: 0.5em;
+}
+.button{
+	border-style: solid;
+	border-width: 1px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom-color: #f9f43e;
+	background-color: #333333;
+	padding: 0.5em
+
+
 }

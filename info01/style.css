@@ -35,7 +35,7 @@ body{
 }
 .desc22{
 	font-size: 1.2rem;
-	line-height: 1.7rem;
+	line-height: 1rem;
 	margin-bottom: 3em;
 }
 .desc3{
@@ -43,16 +43,4 @@ body{
 	font-size: 1.2rem;
 	line-height: 1.7rem;
 	margin-bottom: 1.5em;
-}
-.desc31{
-	margin-top: 1rem;
-	font-size: 1.2rem;
-	line-height: 1.7rem;
-	margin-bottom: 3em;
-}
-.desc31>p{
-	margin-top: 1rem;
-	font-size: 1.2rem;
-	line-height: 2rem;
-	margin-bottom: -0.5em;
 }

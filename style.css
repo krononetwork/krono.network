@@ -46,6 +46,7 @@ input{
 	color: white;
 	font-size: 1em;
 	padding-left: 0.5em;
+	border-radius: 2px;
 }
 input:placeholder {
 	font-family:'IBM Plex Mono',monospace;

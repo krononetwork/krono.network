@@ -26,7 +26,7 @@ body{
 .desc1{
 	margin-top: 5rem;
 	font-size: 1.2rem;
-	line-height: 1.7rem;
+	line-height: 2.2rem;
 }
 .desc2{
 	margin-top: 1rem;
@@ -72,7 +72,7 @@ input:focus{
 	background-color: #333333;
 
 	padding: 0.7em;
-
-
-
+}
+.viral{
+	margin-right: 3em;
 }

@@ -7,8 +7,8 @@ html{
 }
 body{
 	font-family:'IBM Plex Mono',monospace;
-	background-color: #FFFFFF;
-	color: #101010;
+	background-color: #101117;
+	color: #cfd0d6;
 	display: block;
 	margin-top: 5em;
 	margin-bottom: 5em;
@@ -16,10 +16,9 @@ body{
 	margin-right: 3em;
 }
 .subhero{
-	color: #f9f43e;
+
 }
 .herotext{
-	color:#101010;
 	font-size: 1.3rem;
 	line-height: 3rem;
 }
@@ -36,30 +35,30 @@ body{
 .required_email{
 	margin-bottom: 1rem;
 	margin-top: 3rem;
-	background-color: #333333;
+	background-color: #292c3d;
 	border-style: none;
 	height: 3rem;
 	width: 30rem;
 }
 input{
 	font-family:'IBM Plex Mono',monospace;
-	color: white;
+	color: #cfd0d6;
 	font-size: 1em;
 	padding-left: 0.5em;
 	border-radius: 2px;
 }
 input:placeholder {
 	font-family:'IBM Plex Mono',monospace;
-	color: gray;
+	color: #cfd0d6;
 	font-size: 1em;
 	padding-left: 0.5em;
 }
 input:focus{
 	font-family:'IBM Plex Mono',monospace;
-	color: white;
+	color: #cfd0d6;
 	font-size: 1em;
 	padding-left: 0.5em;
-	outline-color: #f9f43e;
+	outline-color: #cfd0d6;
 }
 .button{
 	font-family:'IBM Plex Mono',monospace;
@@ -68,11 +67,12 @@ input:focus{
 	border-top: none;
 	border-left: none;
 	border-right: none;
-	border-bottom-color: #f9f43e;
-	background-color: #333333;
+	border-bottom-color: #cfd0d6;
+	background-color: #292c3d;
 
 	padding: 0.7em;
 }
-.viral{
-	margin-right: 10em;
+mark{
+	color: white;
+	background-color: #292c3d;
 }

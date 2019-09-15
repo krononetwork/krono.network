@@ -5,8 +5,8 @@ html{
 }
 body{
 	font-family:'IBM Plex Mono',monospace;
-	background-color: #101010;
-	color: white;
+	background-color: #101117;
+	color: #cfd0d6;
 	display: block;
 	margin-top: 7em;
 	margin-bottom: 7em;
@@ -14,12 +14,12 @@ body{
 	margin-right: 3em;
 }
 .subhero{
-	color: #f9f43e;
+	color: #cfd0d6;
 }
 .herotext{
-	color:#f9f43e;
+	color:#cfd0d6;
 	font-size: 1.3rem;
-	line-height:2rem;
+	line-height:3rem;
 }
 .desc2{
 	margin-top: 1rem;
@@ -31,16 +31,16 @@ body{
 	margin-top: 1rem;
 	font-size: 1.2rem;
 	line-height: 1.7rem;
+	margin-bottom: 1.5em;
 
 }
 .desc22{
 	font-size: 1.2rem;
-	line-height: 1rem;
+	line-height: 2rem;
 	margin-bottom: 3em;
 }
-.desc3{
-	margin-top: 1rem;
-	font-size: 1.2rem;
-	line-height: 1.7rem;
-	margin-bottom: 1.5em;
+mark{
+	color: white;
+	background-color: #292c3d;
+
 }

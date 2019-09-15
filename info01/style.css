@@ -15,6 +15,7 @@ body{
 }
 .subhero{
 	color: #cfd0d6;
+	margin-bottom: 1.5rem;
 }
 .herotext{
 	color:#cfd0d6;
@@ -36,8 +37,8 @@ body{
 }
 .desc22{
 	font-size: 1.2rem;
-	line-height: 2rem;
-	margin-bottom: 3em;
+	line-height: 2.2rem;
+	margin-bottom: 5em;
 }
 mark{
 	color: white;
